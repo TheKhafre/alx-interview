@@ -40,7 +40,6 @@ def parseLogs():
 
 
 def report(fileSize, statusCodes):
-    
     """
     Prints generated report to standard output
     Args:
