@@ -26,7 +26,6 @@ This project involves creating a script that reads log lines from standard input
 
 The expected input format for log lines is as follows:
 
-
 ## Output
 
 The script will print statistics including the total file size and the number of lines by status code (200, 301, 400, 401, 403, 404, 405, and 500). Status codes will be printed in ascending order.
