@@ -1,8 +1,8 @@
 # Star Wars Characters Script
 
-## Project Description
+## Project Spec
 
-The project uses Node.js script that retrieves and prints the characters of a Star Wars movie using the Star Wars API. The script takes a Movie ID i.e the movie released part e.g 3 as input and displays the character names in the same order as they appear in the movie's data.
+This project is a Node.js script that retrieves and prints the characters of a Star Wars movie using the Star Wars API. The script takes a Movie ID as input and displays the character names in the same order as they appear in the movie's data.
 
 ## Requirements
 
@@ -25,4 +25,4 @@ $ sudo apt-get install -y nodejs
 To ensure code compliance with the Semi-Standard style, install the semistandard module globally:
 
 $ sudo npm install semistandard --global
-```
+
